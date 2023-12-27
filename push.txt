@@ -1,5 +1,6 @@
 git init
 git add . 
+git remote set-url origin https://github.com/cheesenaan/joshua.git
 git remote add origin https://github.com/cheesenaan/joshua.git
 git commit -m "first commit"
 git push -u origin main
